@@ -12,7 +12,7 @@ using UnityEngine;
 namespace Oxide.Plugins
 {
     [Info("Custom Unwrap Rewards", "VisEntities", "1.0.0")]
-    [Description(" ")]
+    [Description("Lets you modify the loot from unwrapable items such as easter eggs and christmas presents.")]
     public class CustomUnwrapRewards : RustPlugin
     {
         #region Fields
